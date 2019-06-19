@@ -4,3 +4,9 @@ function hello () => {
 }
 
 var test = hello();
+var 1 = 'A';
+var 2 = 'B';
+var 3 = 'C';
+var 4 = 'D';
+var 5 = 'E';
+var 6 = 'F';
