@@ -4,3 +4,6 @@ function hello () => {
 }
 
 var test = hello();
+
+var asdf = "asdf";
+
