@@ -9,3 +9,5 @@ var testingRemote = "testing remote";
 
 
 var AnotherRemoteChange = "testing remote";
+
+var Hello =  "Medals";
