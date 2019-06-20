@@ -4,3 +4,5 @@ function hello () => {
 }
 
 var test = hello();
+
+var testingRemote = "testing remote";
